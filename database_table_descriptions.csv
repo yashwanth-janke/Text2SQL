@@ -1,0 +1,9 @@
+Table,Description
+customers,Stores customer information including contact details credit limits and location data
+orders,Contains order information with dates status and customer references
+orderdetails,Stores detailed information about products in each order including quantities and prices
+products,Contains product information including names descriptions prices and inventory levels
+productlines,Stores product line categories and descriptions for organizing products
+employees,Contains employee information organizational hierarchy and contact details
+offices,Stores office location contact information and territory assignments
+payments,Records customer payment transactions amounts and payment dates
